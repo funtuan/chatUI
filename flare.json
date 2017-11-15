@@ -1,8 +1,8 @@
 {
     "name": "flare",
     "children": [{
-        "name": "analytics"
-        
+        "name": "analytics",
+        "size": 720
             "name": "cluster",
             "children": [{
                 "name": "AgglomerativeCluster",
@@ -43,7 +43,8 @@
             }]
         }]
     }, {
-        "name": "animate"
+        "name": "animate",
+		"size": 720
 	}, {
         "name": "data",
         "children": [{
